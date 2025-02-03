@@ -1,0 +1,33 @@
+.app, #app {
+    background-image: url('https://sie-va.my.id/assets/images/bg/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0%;
+}
+
+.login-panel {
+    max-width: 600px;
+}
+
+.img-logo {
+    width: 150px;
+}
+
+.img-logo-2 {
+	width: 80px;
+}
+
+.block-panel {
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 12px;
+}
+
+.intro-title {
+    color: #0000ff!important;
+}
+
+.intro-text {
+    font-size: 17px;
+    color: #0000ff !important;
+}
